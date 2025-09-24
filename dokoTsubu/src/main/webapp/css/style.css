@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+	background-color: black;
+	color : white;
+}
+
+.primg{
+	width : 50px;
+	width : 50px;
+	
+}
+
+tr{
+	text-align : left;
+}
+
+.name{
+	color:Yellow
+}
